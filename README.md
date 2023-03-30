@@ -10,7 +10,7 @@ Features
 Technologies Used
 <p>HTML, CSS, JavaScript</p>
 Demo
-<p>You can see a live demo of this calculator at <a href="https://example.com/calculator">https://example.com/calculator</a>.</p>
+<p>You can see a live demo of this calculator at <a href="https://ashuraa16.github.io/calculator2/">Click Here</a>.</p>
 Installation
 <p>To run this application locally, follow these steps:</p>
 <ol>
