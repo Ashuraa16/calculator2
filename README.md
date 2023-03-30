@@ -14,7 +14,7 @@ Demo
 Installation
 <p>To run this application locally, follow these steps:</p>
 <ol>
-<li>Clone this repository: <code>git clone https://github.com/your-username/calculator.git</code></li>
+<li>Clone this repository: <code>git clone https://github.com/Ashuraa16/calculator2.git</code></li>
 <li>Open the <code>index.html</code> file in your browser.</li>
 </ol>
 Usage
