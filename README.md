@@ -9,8 +9,8 @@ This is a simple calculator application that allows users to perform addition, m
 
 
 Technologies Used
-->HTML
-->CSS
+->HTML<br>
+->CSS<br>
 ->JavaScript
 
 Demo
