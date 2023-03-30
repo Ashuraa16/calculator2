@@ -1,42 +1,32 @@
-# calculator2
 Calculator
 This is a simple calculator application that allows users to perform addition, multiplication, and modulus operations.
 
-*Features*
-->Basic arithmetic operations: addition, multiplication, and modulus.
-->Clear button to reset the calculator.
-->Responsive design that adapts to different screen sizes.
-
-
+Features
+<ul>
+<li>Basic arithmetic operations: addition, multiplication, and modulus.</li>
+<li>Clear button to reset the calculator.</li>
+<li>Responsive design that adapts to different screen sizes.</li>
+</ul>
 Technologies Used
-->HTML<br>
-->CSS<br>
-->JavaScript
-
+<p>HTML, CSS, JavaScript</p>
 Demo
-You can see a live demo of this calculator at https://ashuraa16.github.io/calculator2/
-
+<p>You can see a live demo of this calculator at <a href="https://example.com/calculator">https://example.com/calculator</a>.</p>
 Installation
-
-To run this application locally, follow these steps:
-
-->Clone this repository: git clone https://github.com/Ashuraa16/calculator2.git
-->Open the index.html file in your browser.
-
-
+<p>To run this application locally, follow these steps:</p>
+<ol>
+<li>Clone this repository: <code>git clone https://github.com/your-username/calculator.git</code></li>
+<li>Open the <code>index.html</code> file in your browser.</li>
+</ol>
 Usage
-
-To use the calculator, simply click on the buttons to enter numbers and operators, and click the "=" button to see the result. You can also click the "C" button to clear the calculator.
-
-
+<p>To use the calculator, simply click on the buttons to enter numbers and operators, and click the "=" button to see the result. You can also click the "C" button to clear the calculator.</p>
 Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-->Fork this repository.
-->Create a new branch: git checkout -b feature/your-feature-name
-->Make your changes and commit them: git commit -am 'Add some feature'
-->Push to the branch: git push origin feature/your-feature-name
-->Submit a pull request.
-
-
+<p>If you would like to contribute to this project, please follow these steps:</p>
+<ol>
+<li>Fork this repository.</li>
+<li>Create a new branch: <code>git checkout -b feature/your-feature-name</code></li>
+<li>Make your changes and commit them: <code>git commit -am 'Add some feature'</code></li>
+<li>Push to the branch: <code>git push origin feature/your-feature-name</code></li>
+<li>Submit a pull request.</li>
+</ol>
+License
+<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
